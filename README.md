@@ -1,3 +1,4 @@
+<img width="1080" height="464" alt="Image" src="https://github.com/user-attachments/assets/df5f8d4a-3ee1-45e0-be6e-15a88e2c26f7" />
 
 # Apple TV 4K (4th Gen) Smart Home & Network Mesh Analyzer
 
